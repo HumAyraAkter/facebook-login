@@ -1,0 +1,37 @@
+body{
+    background-color: #F0F2F5;
+    display: table;
+    width: 100px;
+    height: 800px;
+}
+input{
+    width: 320px;
+    height: 35px;
+    border:#F0F2F5 2px solid;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: #1877f2;
+}
+.for{
+text-align: center;
+padding-bottom: 8px;
+}
+.box{
+    margin-left: 715px;
+    margin-top: 100px;
+}
+.gree{
+    text-align: center;
+    padding-top: 10px;
+}
+.box-n{
+    position: absolute;
+    top: 190px;
+    left: 300px;
+}
+.oo{
+    font-size: small;
+    text-align: center;
+}
